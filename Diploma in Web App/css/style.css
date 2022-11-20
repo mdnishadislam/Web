@@ -1,0 +1,10 @@
+#formClass{
+    background-color: aqua;
+}
+
+.forminline{
+    display: inline;
+}
+.myimage{
+    background-image: url("/images/scenery.jpg");
+}
